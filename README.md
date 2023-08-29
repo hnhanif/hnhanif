@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student on a jou
 HaniFusion is a collection of apps that demonstrate various data structures like stacks, queues, and algorithms like sorting and searching. Explore and learn about these concepts hands-on!
 
 Apps included:
-  -version-control: A stack-based source control.
+  - version-control: A stack-based source control.
   - restaurant-management: Interactive queue simulation.
   - personal-finance: Linked-List based project.
   - movie-database: Sorting algorithms showcase.
